@@ -105,7 +105,9 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 93    | NILMS Paper with code                                        | [👆](https://github.com/klemenjak/nilm-papers-with-code)      |
 | 94    | 3D Computer Vision Research Projects                         | [👆](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision) |
 | 95    | NLP and Computer Vision Project Collection                   | [👆](https://github.com/NELSONZHAO/zhihu)                     |
-| 96    | Udacity Collection of Computer Vision Projects               | [👆](https://github.com/Bjarten/computer-vision-ND)           |
+| 96    | Udacity Collection of Computer Vision Projects               | [👆](https://github.com/Bjarten/computer-vision-ND)  
+| 3     | Andrew NG ML notes                                           | [👆](https://github.com/ashishpatel26/Andrew-NG-Notes)        |
+|
 | 97    | Zero to Hero Tensorflow Tutorial                             | [👆](https://github.com/mrdbourke/tensorflow-deep-learning)   |
 | 98    | Deep learning in Production                                  | [👆](https://github.com/The-AI-Summer/Deep-Learning-In-Production) |
 | 99    | GANs Collection                                              | [👆](https://github.com/The-AI-Summer/GANs-in-Computer-Vision) |
